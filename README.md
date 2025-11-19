@@ -57,7 +57,7 @@ To improve authenticity, I refered Hb levels from WHO site:
 WHO Hemoglobin (Hb) ranges for <b>Normal, Mild, Moderate, and Severe Anemia</b>
 :
 
-<b>Normal Hb Ranges (clinical laboratory reference ranges)-</b> 
+<b>Normal Hb Ranges (Clinical Laboratory Reference Ranges)-</b> 
 Men: 13.0 – 17.0 g/dL,
 Women (Non-Pregnant): 12.0 – 15.0 g/dL,
 Children (6 months – 5 years): 11.0 – 14.0 g/dL,
