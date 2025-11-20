@@ -10,16 +10,16 @@ The prevalence, however, is not uniform across all groups and regions. For insta
 - **Children (especially preschool-aged):** Some regions report rates as high as 42%.
 
 These variations depend on factors like nutritional status, healthcare access, and socioeconomic conditions.
-so I created an unique model using RandomForestClassifier providing us an accuracy of 98.50%   
+so I created an unique model using **Random Forest Classifier** providing us an accuracy of 98.50%   
 
-RandomForest classifiers are often preferred for health monitoring for several key reasons:
+RandomForest Classifiers are often preferred for health monitoring for several key reasons:
 1) Robustness Through Ensemble Learning
 2) Handling Complex and High-Dimensional Data
 3) Feature Importance Insights
 4) Robustness Against Missing Data
 5) Ease of Use and Versatility
 
-RandomForest generally requires less parameter tuning and is user-friendly, making it a practical choice for various health monitoring applications—from disease prediction to patient risk assessment.
+**Random Forest Classifier** generally requires less parameter tuning & is user-friendly, making it a practical choice for various health monitoring applications—from disease prediction to patient risk assessment.
 While no single model is universally the best, RandomForest’s balance of accuracy, interpretability, and robustness makes it a strong candidate for many health monitoring tasks.
 
 <br><br>
