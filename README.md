@@ -151,7 +151,7 @@ Password - **megha2110**
 
 *Author* & *Creator* - **Rutuja/Megha Saharkar** 
 
-
+This project is licensed under the MIT License.
 
 
 
