@@ -149,7 +149,7 @@ Username - **megha**,
 Password - **megha2110**
 
 
-*Author* & *Creator* - **Rutuja** (Megha/Rutu)
+*Author* & *Creator* - **Rutuja/Megha Saharkar** 
 
 
 
