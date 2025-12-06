@@ -93,7 +93,10 @@ Mild Anemia: 11.0 – 11.4 g/dL,
 Moderate Anemia: 8.0 – 10.9 g/dL,
 Severe Anemia: < 8.0 g/dL.
 
-              
+
+Demo Video - https://drive.google.com/file/d/1z6Tyw-5J7xIU6VFkMB6orfZhassVo4-L/view?usp=sharing 
+
+         
 <br><br>
 <h3><b>User Authentication & Home Page</b></h3>
 <br><br>
@@ -153,7 +156,7 @@ Password - **megha2110**
 
 This project is licensed under the MIT License.
 
-Demo Video - https://drive.google.com/file/d/1z6Tyw-5J7xIU6VFkMB6orfZhassVo4-L/view?usp=sharing 
+
 
 
 
